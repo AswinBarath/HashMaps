@@ -1,4 +1,4 @@
-# Hashing
+# HashMaps
 
 - Two Sum
 - Four Sum
