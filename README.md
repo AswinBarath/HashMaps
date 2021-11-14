@@ -8,7 +8,7 @@ Problems based on the HashMap data structure
 
 ### Day 4 (Hashing)
 
-| Completion Status | Problems on Arrays | Explanation | Solution |
+| Completion Status | Problems on HashMaps | Explanation | Solution |
 | --- | --- | --- | --- |
 | ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/TwoSum.java) |
 | ✅ | [4Sum](https://leetcode.com/problems/4sum/) | [Brute, Better & Optimal Approaches](#) | [Java Soultion](./src/sde_sheet/FourSum.java) |
