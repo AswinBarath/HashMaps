@@ -4,6 +4,8 @@ Problems based on the HashMap data structure
 
 ## SDE Sheet problems on HashMaps
 
+[Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
 ### Day 4 (Hashing)
 
 | Completion Status | Problems on Arrays | Explanation | Solution |
